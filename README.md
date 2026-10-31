@@ -8,7 +8,7 @@
 
 <img width="931" height="964" alt="image" src="https://github.com/user-attachments/assets/dc49c12e-083c-4f7e-9c68-14192e4bd9c1" />
 
-Bill of Materials:
+# BILL OF MATERIALS
 
   #4 SW_Cherry_MX_1.00u_PCB
   
