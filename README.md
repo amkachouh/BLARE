@@ -27,7 +27,7 @@ Bill of Materials:
 This is all the info on my BLARE project!
 
 
-The buttons are for 
+# BUTTONS
 
 edit time
 
