@@ -31,7 +31,7 @@ The buttons are for
 
 edit time
 
-+
+"+"
 
 -
 
