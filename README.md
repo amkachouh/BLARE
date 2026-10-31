@@ -33,7 +33,7 @@ edit time
 
 "+"
 
--
+"-"
 
 screen toggle
 
