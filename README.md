@@ -10,9 +10,30 @@
 
 Bill of Materials:
 
-  #4 Keyswitches
+  #4 SW_Cherry_MX_1.00u_PCB
   
-  #1
+  #1 PinSocket_1x08_P2.54mm_Vertical
+
+  #1 XIAO-ESP32-C3-DIP
+
+  #1 Buzzer_12x9.5RM7.6
+
+  #1 PCB
+
+  #3 3D printed case top, middle, and bottom
+
 
 
 This is all the info on my BLARE project!
+
+
+The buttons are for 
+
+edit time
+
++
+
+-
+
+screen toggle
+
