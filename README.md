@@ -36,13 +36,21 @@
   I used:
 
   a Soldering iron
+  
   Solder
+  
   Flux
+  
   a Wet sponge
+  
   Copper solder wick
+  
   KiCAD to model
+  
   JCLPCB to make my pcb
+  
   hammer
+  
 
   
 
