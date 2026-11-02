@@ -22,9 +22,29 @@
 
   #3 3D printed case top, middle, and bottom
 
+  #8 3D printed dowels
+
+  #1 2.25in TFT Screen
+
+  #8 female to female wires
 
 
 
+
+# TOOLS
+
+  I used:
+
+  a Soldering iron
+  Solder
+  Flux
+  a Wet sponge
+  Copper solder wick
+  KiCAD to model
+  JCLPCB to make my pcb
+  hammer
+
+  
 
 
 
